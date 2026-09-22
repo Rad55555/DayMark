@@ -4,3 +4,4 @@
 backend/bin/
 backend/obj/
 backend/tasks.db
+backend/tasks.db-*
